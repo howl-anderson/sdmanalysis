@@ -1,0 +1,16 @@
+Package: sdmanalysis
+Type: Package
+Title: Analysis the SDM (Species Distribution Modelling) modelling result
+Version: 0.1
+Date: 2015-04-17
+Author: Xiaoquan Kong
+Depends:
+    yaml,
+    raster,
+    DBI,
+    parallel,
+    sdmutility,
+    sdmengine.common
+Maintainer: Xiaoquan Kong <u1mail2me@gmail.com>
+Description: Analysis SDMengine modeling resutl result
+License: AGPL
